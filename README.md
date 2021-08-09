@@ -1,0 +1,3 @@
+# lf_cdn
+
+JUST A SIMPLE NETDISK
